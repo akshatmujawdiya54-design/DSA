@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Combinatorics
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
