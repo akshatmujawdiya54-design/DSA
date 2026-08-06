@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0018-4sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0118-pascals-triangle/) | Easy |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0031-next-permutation/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
