@@ -7,6 +7,7 @@ public:
        while(num) 
        {
             ans*=num%10;
+            if(ans==0) break;
             num/=10;
        }
       if(ans%t==0)
