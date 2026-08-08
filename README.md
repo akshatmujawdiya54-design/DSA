@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
