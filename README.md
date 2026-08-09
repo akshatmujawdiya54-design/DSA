@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
