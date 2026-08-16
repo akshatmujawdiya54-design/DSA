@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0665-non-decreasing-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0665-non-decreasing-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
