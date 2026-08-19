@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0665-non-decreasing-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0665-non-decreasing-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
