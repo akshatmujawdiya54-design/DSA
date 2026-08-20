@@ -3,7 +3,6 @@ public:
     vector<int> resultArray(vector<int>& nums) {
         vector<int>arr1;
         vector<int>arr2;
-        vector<int>result;
         arr1.push_back(nums[0]);
         arr2.push_back(nums[1]);
         for(int i=2;i<nums.size();i++ )
@@ -13,8 +12,7 @@ public:
             else
                 arr2.push_back(nums[i]);
         }
-        result.insert(result.end(),arr1.begin(),arr1.end());
-        result.insert(result.end(),arr2.begin(),arr2.end());
-        return result;
+       arr1.insert(arr1.end(),arr2.begin(),arr2.end());
+       return arr1;
     }
 };
