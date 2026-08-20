@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
