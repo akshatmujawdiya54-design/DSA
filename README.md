@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0344-reverse-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0344-reverse-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
