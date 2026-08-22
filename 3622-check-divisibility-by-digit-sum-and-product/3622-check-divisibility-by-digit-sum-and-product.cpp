@@ -10,8 +10,6 @@ public:
             num/=10;
         }
         sum+=mul;
-        if(n%sum==0)
-        return true;
-        return false;
+       return n%sum==0;
     }
 };
