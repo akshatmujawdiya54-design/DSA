@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0050-powx-n/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0050-powx-n/) | Medium |
 ## String
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 <!---LeetCode Topics End-->
