@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0143-reorder-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0344-reverse-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0061-rotate-list/) | Medium |
+| [0143-reorder-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 <!---LeetCode Topics End-->
