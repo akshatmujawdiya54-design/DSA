@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0206-reverse-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
