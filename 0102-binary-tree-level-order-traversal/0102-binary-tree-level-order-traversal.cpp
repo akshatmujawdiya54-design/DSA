@@ -22,9 +22,9 @@ void level(TreeNode *root,vector<vector<int>>&levelorder)
         vector<int>currentlevel;
         for(int i=0;i<n;i++)
         {
-        if(root==nullptr) return;
         temp=q.front();
         q.pop();
+        if(root==nullptr) return;
         currentlevel.push_back(temp->val);
         if(temp->left)
         q.push(temp->left);
@@ -36,6 +36,7 @@ void level(TreeNode *root,vector<vector<int>>&levelorder)
 }
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>>levelorder;
+        levelorder.reserve(2000);
         level(root,levelorder);
         return levelorder;
     }
