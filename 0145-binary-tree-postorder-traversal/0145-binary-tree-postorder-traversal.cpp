@@ -20,6 +20,7 @@ void post(TreeNode *root,vector<int>&postorder)
 }
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int>postorder;
+        postorder.reserve(100);
         post(root,postorder);
         return postorder;
     }
