@@ -36,7 +36,6 @@ void level(TreeNode *root,vector<vector<int>>&levelorder)
 }
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>>levelorder;
-        levelorder.reserve(2000);
         level(root,levelorder);
         return levelorder;
     }
