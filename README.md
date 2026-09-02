@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -184,4 +185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
