@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
