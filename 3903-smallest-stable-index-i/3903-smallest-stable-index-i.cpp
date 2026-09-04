@@ -1,17 +1,20 @@
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        int stableidx=-1;
-        for(int i=0;i<nums.size();i++)
+        int n=nums.size();
+        vector<int>sufixmin(n);
+        sufixmin[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--)
         {
-            int mx = *max_element(nums.begin(), nums.begin()+i+1);
-            int mn=*min_element(nums.begin()+i,nums.end());
-            if(mx-mn<=k)
-            {
-                stableidx=i;
-                break;
-            }
+            sufixmin[i]=min(nums[i],sufixmin[i+1]);
         }
-    return stableidx;
+        int maxprefix=nums[0];
+        for(int i=0;i<n;i++)
+        {
+            maxprefix=max(maxprefix,nums[i]);
+            if(maxprefix-sufixmin[i]<=k)
+                return i;
+        }
+        return -1;
     }
 };
