@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
