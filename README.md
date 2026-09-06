@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0050-powx-n/) | Medium |
+| [0412-fizz-buzz](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0344-reverse-string/) | Easy |
+| [0412-fizz-buzz](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
+| [0412-fizz-buzz](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Hash Table
