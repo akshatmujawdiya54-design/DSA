@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findLonely(int[] nums) {
-     TreeMap<Integer, Integer> map = new TreeMap<>();
+     HashMap<Integer, Integer> map = new HashMap<>();
         for (int x : nums) {
             map.put(x, map.getOrDefault(x, 0) + 1);
         }
