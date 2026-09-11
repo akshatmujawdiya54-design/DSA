@@ -5,6 +5,7 @@ class Solution {
         {
             if(i>maxidx) return false;
             maxidx=Math.max(maxidx,i+nums[i]);
+            if(maxidx>=nums.length-1) return true;
         }
         return true;
     }
