@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0050-powx-n/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0412-fizz-buzz](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0055-jump-game/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
