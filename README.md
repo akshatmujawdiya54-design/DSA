@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0136-single-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0665-non-decreasing-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0665-non-decreasing-array/) | Medium |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
