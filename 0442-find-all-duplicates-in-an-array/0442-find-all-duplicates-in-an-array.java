@@ -1,14 +1,14 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        HashMap<Integer,Integer> ans=new HashMap<>();
         ArrayList<Integer> appearstwice=new ArrayList<>();
-        for(int x : nums)
-            ans.put(x,ans.getOrDefault(x,0)+1);
-        for(Integer x : ans.keySet()){
-            if(ans.get(x)==2)
-            {
-                    appearstwice.add(x);
-            }
+        HashMap<Integer,Integer> ans=new HashMap<>();
+        for(int i=0;i<nums.length;i++)
+        {
+            int index=Math.abs(nums[i])-1;
+            if(nums[index]<0)
+                appearstwice.add(index+1);
+            else
+                nums[index]=-nums[index];
         }
         return appearstwice;
     }
