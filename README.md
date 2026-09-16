@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0136-single-number/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Queue
