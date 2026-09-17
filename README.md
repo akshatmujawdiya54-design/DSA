@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0018-4sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0031-next-permutation/) | Medium |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
