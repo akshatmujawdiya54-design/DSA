@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0143-reorder-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0344-reverse-string/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
