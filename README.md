@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0665-non-decreasing-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0665-non-decreasing-array/) | Medium |
+| [0739-daily-temperatures](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1122-relative-sort-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1122-relative-sort-array/) | Easy |
@@ -184,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0739-daily-temperatures](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0739-daily-temperatures](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
