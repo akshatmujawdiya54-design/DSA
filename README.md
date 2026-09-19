@@ -300,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0796-rotate-string/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
