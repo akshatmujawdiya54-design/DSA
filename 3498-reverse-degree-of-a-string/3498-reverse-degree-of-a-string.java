@@ -1,6 +1,5 @@
 class Solution {
     public int reverseDegree(String s) {
-        int num;
         int ans=0;
         for(int i=0;i<s.length();i++)
         {
