@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0058-length-of-last-word](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0058-length-of-last-word/) | Easy |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0242-valid-anagram](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Bit Manipulation
