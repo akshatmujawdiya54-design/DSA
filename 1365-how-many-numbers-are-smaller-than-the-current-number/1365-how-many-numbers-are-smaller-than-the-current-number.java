@@ -1,29 +1,14 @@
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
-        int n=nums.length;
-        int[] arr=nums.clone();
-        int [] ans=new int[n];
-        Arrays.sort(arr);
+       int n=nums.length;
+       int[] count=new int[102];
+       for(int x:nums) count[x+1]++;
+       for(int i=1;i<102;i++)
+        count[i]+=count[i-1];
         for(int i=0;i<n;i++)
         {
-            int start=0;
-            int end=n-1;
-            while(start<=end)
-            {
-                int mid=start+(end-start)/2;
-                if(arr[mid]==nums[i])
-                    {
-                        ans[i]=mid;
-                        end=mid-1;
-                    }
-                else if(arr[mid]>nums[i])
-                {
-                    end=mid-1;
-                }
-                else
-                    start=mid+1;
-            }
+            nums[i]=count[nums[i]];
         }
-    return ans;
+        return nums;
     }
 }
