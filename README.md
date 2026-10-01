@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1122-relative-sort-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1122-relative-sort-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1122-relative-sort-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1122-relative-sort-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
