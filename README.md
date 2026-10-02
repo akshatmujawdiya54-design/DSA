@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0771-jewels-and-stones](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0771-jewels-and-stones](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1122-relative-sort-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
