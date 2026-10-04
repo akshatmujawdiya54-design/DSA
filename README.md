@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0050-powx-n](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0050-powx-n/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0412-fizz-buzz](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0136-single-number/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0739-daily-temperatures](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0739-daily-temperatures/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
