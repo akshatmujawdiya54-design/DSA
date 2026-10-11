@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
