@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/akshatmujawdiya54-design/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2057-smallest-index-with-equal-value/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2150-find-all-lonely-numbers-in-the-array/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/akshatmujawdiya54-design/DSA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/akshatmujawdiya54-design/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akshatmujawdiya54-design/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
